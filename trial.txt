@@ -1,6 +1,6 @@
 This file documents my progress in learning git workflows,
 specifically branching and merging. 
 
-
+Also,
 it Hightlights key commands like git status, lessons from resolving bugs,
 and insights into maintaining clean version control.
