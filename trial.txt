@@ -2,4 +2,5 @@ This file documents my progress in learning git workflows,
 specifically branching and merging. 
 
 
-it Hightlights key commands like git status, lessons from resolving bugs
+it Hightlights key commands like git status, lessons from resolving bugs,
+and insights into maintaining clean version control.
